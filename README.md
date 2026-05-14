@@ -9,19 +9,7 @@ I enjoy solving problems, learning modern technologies, and improving my develop
 
 ## 🛠️ Tech Stack
 
-### 💻 Backend
-
-* ASP.NET Core
-* C#
-* REST APIs
-* Entity Framework
-
 ### 🌐 Web & Networking
-
-* HTML
-* CSS
-* JavaScript
-* Network Fundamentals
 
 ### 🗄️ Database
 
@@ -58,19 +46,6 @@ Projects focused on clean backend structure and database integration.
 ### 🔹 Networking & Security Labs
 
 Practice projects related to networking concepts and security fundamentals.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ali7Amera&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali7Amera&theme=tokyonight" />
-</p>
-
 ---
 ## ✨ Fun Fact
 
